@@ -1,8 +1,8 @@
 # Olá, eu sou Itamar Iliuk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 👨‍💻 PhD | Professor | Desenvolvedor | Pesquisador em Robótica & IA
+### 👩‍💻 PhD | Professora | Desenvolvedora | Pesquisadora em Robótica & IA
 
-Seja bem-vindo ao meu perfil! Sou um profissional com uma trajetória híbrida que une mais de **17 anos de experiência industrial** com **10 anos de carreira acadêmica** e pesquisa avançada. Atualmente, foco no desenvolvimento de soluções em **Robótica (ROS/ROS2)**, **Inteligência Artificial** e **Automação**.
+Seja bem-vindo ao meu perfil! Sou uma profissional com uma trajetória híbrida que une mais de **17 anos de experiência industrial** com **10 anos de carreira acadêmica** e pesquisa avançada. Atualmente, foco no desenvolvimento de soluções em **Robótica (ROS/ROS2)**, **Inteligência Artificial** e **Automação**.
 
 Minha paixão é transformar teoria complexa em software funcional e eficiente, aplicando rigor científico e boas práticas de engenharia de software.
 
@@ -27,9 +27,9 @@ Minhas principais ferramentas e tecnologias de desenvolvimento:
 
 ### 🚀 Sobre Mim
 
-* 🎓 **Formação:** Doutor em Engenharia/Energia e Bacharel em Ciência da Computação.
-* 🏛️ **Atuação:** Professor na **UTFPR** (Universidade Tecnológica Federal do Paraná).
-* 💼 **Experiência:** Ex-gestor industrial (Metalurgia) e Pesquisador (Projetos com a Marinha/Aramar).
+* 🎓 **Formação:** Doutora em Engenharia/Energia e Bacharel em Ciência da Computação.
+* 🏛️ **Atuação:** Professora na **UTFPR** (Universidade Tecnológica Federal do Paraná).
+* 💼 **Experiência:** Ex-gestora industrial (Metalurgia) e Pesquisadora (Projetos com a Marinha/Aramar).
 * 🤖 **Interesses Atuais:** Agentes de IA, ROS 2, Data Centers e Automação Residencial (Home Assistant).
 * 🌱 **Atualmente aprendendo:** Arquiteturas avançadas para LLMs e Orquestração de Robôs.
 
